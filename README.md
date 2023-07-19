@@ -15,6 +15,12 @@ Header
 ![NODE.js](https://img.shields.io/badge/-NODE.js-090909?style=for-the-badge&logo=NODE.js&logoColor=72BC45)
 ![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=Webpack&logoColor=1B74B8)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErmakovAnt&layout=pie)](https://github.com/ErmakovAnt/github-readme-stats)
+
 ## Telegram
 
-![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Anton9590)
+
+## CodeWars
+
+![Codewars](https://github.r2v.ch/codewars?user=ErmakovAnt)
