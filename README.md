@@ -1,8 +1,8 @@
-### Привет, меня зовут Антон! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+### Hello, I'm Anton! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-### 👨🏻‍💻 Я Frontend-разработчик.
+### 👨🏻‍💻 I am a Frontend developer.
 
-### 🛠️ Технологии, которые я использую:
+### 🛠️ Languages and Tools::
 
 ![JavaScript](https://img.shields.io/badge/-Javascript-090909?style=for-the-badge&logo=Javascript&logoColor=F88C00)
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux&logoColor=7C4FC5)
